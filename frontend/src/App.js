@@ -1,6 +1,7 @@
 import * as React from 'react';
 import Map from 'react-map-gl';
 import './App.css';
+import Footer from 'react';
 
 function App() {
   return (
@@ -16,9 +17,5 @@ function App() {
         }}
         mapStyle="mapbox://styles/moralesdoris880/cltox55sx01rl01qp8w1308hu"
         />;
-      </div>
-    </div>
-  );
-}
-
-export default App;
+        <Footer />
+     
