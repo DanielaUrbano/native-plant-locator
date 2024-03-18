@@ -18,4 +18,9 @@ function App() {
         mapStyle="mapbox://styles/moralesdoris880/cltox55sx01rl01qp8w1308hu"
         />;
         <Footer />
-     
+      </div>
+    </div>
+  );
+}
+
+export default App;
