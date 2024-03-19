@@ -12,7 +12,7 @@ but help out all the other organisms that your area calls home. Learn more about
  National Audobon Society Here: https://www.audubon.org/content/why-native-plants-matter
 
 </p4>
-<h1>WHATS THE DEAL WITH INVASIVE AND NOXIOUS SPECIES?</h1>
+<h1>HIHIU WHATS THE DEAL WITH INVASIVE AND NOXIOUS SPECIES?</h1>
 <p5>While noxious species may be native, they can be harmful to the wellbeing of humans and other animals,
   and for that reason, any plantings should be done after consulting with local arborists or ecologists to 
   ensure your safety. Invasive species might not be directly harmful to you, but can do damage to the ecosystem 

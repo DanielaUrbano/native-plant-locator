@@ -31,8 +31,14 @@ function About() {
             to co-evolve with other species and have mutualistic relationships. On the flip side, a significant threat to environmental health comes 
             from invasive species (which are species introduced to an environment that overpopulate and cause adverse effects). Invasive species are 
             increasingly propagating across North America as a result of global climate change. With PlantFinder, individuals will be able to learn
-             more about the plants native to their location, along with the ecosystem services they provide.  <div>*Ecosystem Services are the benefits that plants give back to the environment</div>  </p3>
-
+             more about the plants native to their location, along with the ecosystem services they provide. </p3>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+        
+         <p3> *Ecosystem Services are the benefits that plants give back to the environment </p3>
     </div>
   </div>
   )
